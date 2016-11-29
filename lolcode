@@ -1,0 +1,26 @@
+BTW This is a crackme in LOLCODE
+
+HAI 1.2
+	CAN HAS STDIO?
+	VISIBLE "Welcome 2 my Crackme in Lolcode :)"
+	I HAS A PW ITZ "admin1234"
+	I HAS A counter ITZ 1
+
+	IM IN YR repeter UPPIN YR counter TIL BOTH SAEM counter AN 3
+
+		VISIBLE "Enter Password: "!
+		I HAS A VAR
+		GIMMEH VAR
+
+		BOTH SAEM VAR AN PW
+			O RLY?
+  				YA RLY
+    				VISIBLE "Yeah you got me"
+				GTFO
+  			NO WAI
+    				VISIBLE "Sry this is not my Password :o"
+		OIC
+
+	IM OUTTA YR repeter
+
+KTHXBYE
